@@ -1,2 +1,97 @@
 streamlit
-openai
+openai# Core Streamlit Dependencies
+streamlit
+plotly
+pandas
+numpy
+
+# Data Visualization and Charts
+matplotlib
+seaborn
+altair
+
+# Date and Time Handling
+python-dateutil
+
+# Security Agent Dependencies
+cryptography
+hashlib
+re
+threading
+dataclasses
+typing
+json
+os
+enum34
+
+# Time Management Agent Dependencies
+schedule
+pytz
+
+# Web Development (if needed for deployment)
+gunicorn
+flask
+
+# Data Processing
+scipy
+scikit-learn
+
+# File Handling
+openpyxl
+xlsxwriter
+
+# Network and Security
+requests
+urllib3
+
+# Configuration and Environment
+python-dotenv
+configparser
+
+# Logging and Monitoring
+loguru
+
+# API and Web Scraping (if needed)
+beautifulsoup4
+lxml
+
+# Database (if needed for data persistence)
+sqlite3
+sqlalchemy
+
+# Performance and Optimization
+numba
+cython
+
+# Testing (optional for development)
+pytest
+pytest-mock
+
+# Async support (if needed)
+asyncio
+aiohttp
+
+# Color and Styling
+colorama
+
+# System Information
+psutil
+
+# Email handling (for Security Agent)
+email-validator
+imaplib
+smtplib
+
+# File system monitoring
+watchdog
+
+# Calendar integration (for Time Management)
+icalendar
+caldav
+
+# Notification system
+plyer
+
+# Machine Learning (for threat detection)
+tensorflow
+torch
